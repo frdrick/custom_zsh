@@ -10,3 +10,5 @@ alias cpwd="pwd | tr -d '\n' | pbcopy && echo 'pwd copied to clipboard'"
 alias ip="ipython"
 # Start neovim
 alias nv="nvim"
+# Source .zshrc
+alias szsh="source ~/.zshrc"
